@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">s1114629</string>
+    <string name="app_name">游欣婕</string>
+    <string name="title_activity_second2">SecondActivity2</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>
